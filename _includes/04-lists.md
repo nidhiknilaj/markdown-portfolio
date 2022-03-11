@@ -1,7 +1,7 @@
 list of colours:
-1.blue
-2.red
-3.black
+* blue
+* red
+* black
 list of things:
-a.Balloon
-b.Table
+* Balloon
+* Table
